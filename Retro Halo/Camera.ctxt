@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ xd\ yd\ xp\ yp
+comment0.target=Camera(double,\ double,\ double,\ double,\ double,\ double)
+comment1.params=key
+comment1.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.params=key
+comment2.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.params=map
+comment3.target=void\ update(int[][])
+comment4.params=
+comment4.target=double\ getxPos()
+comment5.params=
+comment5.target=double\ getyPos()
+comment6.params=key
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=7
